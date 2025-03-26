@@ -1,0 +1,26 @@
+.header {
+  .header-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: $spacing-1;
+    padding-bottom: $spacing-1;
+  }
+
+  .logo-link {
+    width: 250px;
+    height: 84px;
+    font-size: 0;
+    background-image: url("/assets/images/fkfd-logo-black-transparent.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  @media screen and (max-width: $breakpoint-header-mobile) {
+    &.navigation-open {
+      background: white;
+    }
+  }
+}

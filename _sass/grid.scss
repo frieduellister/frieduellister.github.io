@@ -1,0 +1,67 @@
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+  align-items: flex-start;
+  gap: $spacing-1;
+  row-gap: $spacing-2;
+
+  > * {
+    width: 100%;
+  }
+
+  > * {
+    * {
+      width: 100%;
+    }
+  }
+
+  img {
+    object-fit: cover;
+  }
+
+  @media screen and (min-width: $breakpoint-row-indent) {
+    .grid-100 {
+      width: 100%;
+    }
+    .grid-50 {
+      width: calc((100% - 1 * #{$spacing-1}) / 2);
+    }
+    .grid-33 {
+      width: calc((100% - 1 * #{$spacing-1}) / 2);
+    }
+    .grid-25 {
+      width: calc((100% - 1 * #{$spacing-1}) / 2);
+    }
+
+    .grid-40 {
+      width: calc(40% - #{$spacing-1} / 2);
+    }
+    .grid-60 {
+      width: calc(60% - #{$spacing-1} / 2);
+    }
+  }
+
+  @media screen and (min-width: $breakpoint-row-medium) {
+    .grid-100 {
+      width: 100%;
+    }
+    .grid-50 {
+      width: calc((100% - 1 * #{$spacing-1}) / 2);
+    }
+    .grid-33 {
+      width: calc((100% - 2 * #{$spacing-1}) / 3);
+    }
+    .grid-25 {
+      width: calc((100% - 3 * #{$spacing-1}) / 4);
+    }
+
+    .grid-40 {
+      width: calc(40% - #{$spacing-1} / 2);
+    }
+    .grid-60 {
+      width: calc(60% - #{$spacing-1} / 2);
+    }
+  }
+}

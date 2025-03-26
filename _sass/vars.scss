@@ -1,0 +1,47 @@
+$breakpoint-row-full: 1232px;
+$breakpoint-row-medium: 1032px;
+$breakpoint-row-indent: 692px;
+
+$breakpoint-header-desktop: 941px;
+$breakpoint-header-mobile: 940px;
+
+$font-size-h1: 4rem;
+$font-size-h2: 2.8rem;
+$font-size-h3: 1.8rem;
+
+$font-size-large: 1.2rem;
+$font-size-regular: 1rem;
+
+$font-size-h1-mobile: 2.2rem;
+$font-size-h2-mobile: 1.5rem;
+$font-size-h3-mobile: 1.2rem;
+
+$font-size-large: 1.1rem;
+$font-size-regular: 1rem;
+
+$color-text-default: black;
+
+$spacing-025: 4px;
+$spacing-05: 8px;
+$spacing-1: 16px;
+$spacing-15: 24px;
+$spacing-2: 32px;
+$spacing-4: 64px;
+
+@mixin chevron-down {
+  display: inline-block;
+  border-left: 4px solid black;
+  border-top: 4px solid black;
+  transform: translateY(-4px) scaleX(70%) rotate(-135deg);
+  vertical-align: middle;
+  transition: all 0.3s ease;
+}
+
+@mixin chevron-up {
+  display: inline-block;
+  border-left: 4px solid black;
+  border-top: 4px solid black;
+  transform: translateY(4px) scaleX(70%) rotate(45deg);
+  vertical-align: middle;
+  transition: all 0.3s ease;
+}

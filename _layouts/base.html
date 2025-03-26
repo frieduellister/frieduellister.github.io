@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="nb">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      {{ page.title }}
+      -
+      {{ site.title }}
+    </title>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; img-src 'self' https:; script-src 'self'; frame-src https:;"
+    >
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="icon" type="image/png" href="/assets/favicon.png">
+    <link rel="apple-touch-icon" type="image/png" href="/assets/favicon.png">
+  </head>
+  <body class="body">
+    {% include header.html %}
+    <main class="main-content">{{ content }}</main>
+    {% include footer.html %}
+    <script src="/assets/js/navigation.js"></script>
+  </body>
+</html>

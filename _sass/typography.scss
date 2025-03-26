@@ -1,0 +1,102 @@
+@font-face {
+  font-family: QuattrocentoSans;
+  src: url("/assets/fonts/QuattrocentoSans-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: QuattrocentoSans;
+  src: url("/assets/fonts/QuattrocentoSans-Bold.woff2") format("woff2");
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+}
+
+html {
+  font-size: 18px;
+  font-family: QuattrocentoSans, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin-top: $spacing-4;
+  margin-bottom: $spacing-1;
+  font-size: $font-size-h1;
+}
+
+h2,
+.font-xl {
+  font-size: $font-size-h2;
+}
+
+h3,
+.font-l {
+  font-size: $font-size-h3;
+}
+
+h4,
+h5,
+h6,
+.font-m {
+  font-size: $font-size-large;
+}
+
+p,
+a,
+ol,
+ul,
+li {
+  font-size: $font-size-regular;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+p:not(:last-child) {
+  margin-bottom: $spacing-15;
+}
+
+a {
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: none;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: $breakpoint-row-indent) {
+  h1,
+  h2,
+  h3 {
+    font-weight: bold;
+  }
+
+  h1 {
+    margin-top: $spacing-2;
+    font-size: $font-size-h1-mobile;
+  }
+
+  h2,
+  .font-xl {
+    font-size: $font-size-h2-mobile;
+  }
+
+  h3,
+  .font-l {
+    font-size: $font-size-h3-mobile;
+  }
+}

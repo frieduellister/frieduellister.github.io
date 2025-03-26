@@ -1,0 +1,92 @@
+.button-open-navigation,
+.button-close-navigation {
+  display: none;
+  font-size: $font-size-h3;
+}
+
+@media screen and (max-width: $breakpoint-header-mobile) {
+  .button-open-navigation,
+  .button-close-navigation {
+    display: inline-block;
+  }
+
+  .button-open-navigation,
+  .button-close-navigation {
+    &.hidden {
+      display: none;
+    }
+  }
+
+  .navigation {
+    display: none;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: start;
+    height: 900px;
+    height: 100vh;
+    width: 100%;
+
+    background-color: white;
+    padding-top: $spacing-1;
+
+    &.open {
+      display: flex;
+    }
+
+    .nav-list {
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .nav-item {
+      margin: 0;
+      padding-top: $spacing-05;
+      padding-bottom: $spacing-05;
+      border-bottom: 1px solid black;
+    }
+
+    .nav-expand-item {
+      padding-top: $spacing-025;
+      padding-bottom: $spacing-025;
+    }
+
+    .nav-item a,
+    .nav-item button {
+      width: 100%;
+      text-align: left;
+      font-size: $font-size-h2-mobile;
+    }
+    .nav-expand-item a {
+      font-size: $font-size-h3-mobile;
+    }
+
+    .nav-expand {
+      position: relative;
+
+      .nav-expand-list {
+        display: none;
+        z-index: auto;
+        position: unset;
+        background-color: unset;
+        box-shadow: none;
+        padding-top: $spacing-1;
+      }
+      .nav-expand-list.open {
+        display: block;
+      }
+
+      .nav-expand-toggle::after {
+        @include chevron-down;
+      }
+    }
+    .nav-expand.open {
+      .nav-expand-list {
+        display: block;
+      }
+
+      .nav-expand-toggle::after {
+        @include chevron-up;
+      }
+    }
+  }
+}

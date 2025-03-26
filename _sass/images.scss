@@ -1,0 +1,33 @@
+img {
+  width: 150%;
+  max-width: 100%;
+}
+
+img.wide-image {
+  margin-left: -25%;
+  width: 150%;
+  max-width: 150%;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    object-fit: cover;
+
+    width: 100%;
+    aspect-ratio: 4 / 3;
+
+    @media screen and (min-width: $breakpoint-row-indent) {
+      width: 50%;
+    }
+
+    @media screen and (min-width: $breakpoint-row-medium) {
+      width: 33.33%;
+    }
+  }
+}
