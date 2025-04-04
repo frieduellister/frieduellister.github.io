@@ -31,7 +31,7 @@ Install dependencies:
 
 Update github pages gem:
 
-`bundle update githb-pages`
+`bundle update github-pages`
 
 Start dev server:
 
