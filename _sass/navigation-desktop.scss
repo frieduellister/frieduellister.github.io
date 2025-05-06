@@ -42,6 +42,10 @@
       padding: $spacing-1;
       width: 160px;
       width: max-content;
+
+      .nav-expand-item:not(:last-child) {
+        margin-bottom: $spacing-05;
+      }
     }
     .nav-expand-toggle::after {
       margin-left: $spacing-05;
