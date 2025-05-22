@@ -18,8 +18,6 @@ Alle kan prøve å trene med oss gratis før man bestemmer seg for å bli medlem
 
 For å bli medlem i klubben må man registrere seg i medlemssystemet vårt Spond. Når dette er gjort vil man få en bekreftelsesmail med lenke til våre sosiale kanaler og nedlastingslenke til Spond-appen der man har tilgang til vår treningskalender.
 
-For å bli medlem i klubben må man registrere seg i medlemssystemet vårt Spond. Når dette er gjort vil man få en bekreftelsesmail med lenke til våre sosiale kanaler og nedlastingslenke til Spond-appen der man har tilgang til vår treningskalender.
-
 ## Pris
 
 Medlemskap i klubben koster kr 1000,- per semester og gir tilgang til alle våre treninger. Betalingsforespørsler blir sendt ut via Spond hvert semester.
