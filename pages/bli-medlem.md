@@ -1,5 +1,6 @@
 ---
 layout: article
+lang: "no"
 title: "Bli medlem"
 permalink: /bli-medlem
 ---

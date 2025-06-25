@@ -1,8 +1,10 @@
 ---
 layout: article
+lang: "no"
 title: "Kontakt"
 permalink: /kontakt
 ---
+
 # Kontakt oss
 
 Den letteste måten å komme i kontakt med oss på er å sende oss en melding på vår facebookside
