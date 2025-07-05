@@ -1,0 +1,61 @@
+---
+layout: article
+lang: "en"
+title: "Oslo Penguin Cup 2025"
+heading: "Oslo Penguin Cup 2025"
+permalink: /opc2025
+---
+
+## Registration
+
+Registration is done via our ticketing system Hoopa. All tournaments must be paid in advance on a first come first serve basis. If a tournament is full you can send us an email to be put on the waiting list. If you have registered and are unable to attend please let us know as soon as possible and we will do our best to provide a refund untill at least 1 month before the event.
+
+<p class="center-text">
+    <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/226446324">Register here!</a>
+</p>
+
+## Program and Schedule
+
+### Friday:
+
+- Rigging
+- Rules briefing for staff
+
+### Saturday:
+
+- Open Longsword
+- Open Sidesword and Beginner's Sidesword (will run in paralell)
+- Women's Longsword and Beginner's Longsword (will run in paralell)
+- All saturday finals
+- Social
+
+### Sunday:
+
+- Open Sabre & Womens Sabre (will run in paralell)
+- Open Rapier
+- All sunday finals
+
+## Rules
+
+### Rules at a glance:
+
+- 3 minute matches without pausing for scoring
+- Fully weighted afterblows within one tempo
+- Mandatory 350N rated fencing jacket and breeches
+- Weapons provided for longsword and sidesword
+- Bring your own swords for sabre and rapier
+
+### Full ruleset
+
+Full ruleset and detailed equipment requirements can be found here: [Full ruleset (PDF)](/LINK_TO_RULES)
+
+## Accomodation
+
+We offer the oppotunity to sleep in the hall for a reasonable price for budget councious fencers, breakfast included. You must bring you own sleeping gear. There is a limited amount of accomodation spots available, be sure to book during registration.
+
+## Venue
+
+The event will take place at Bygdøhus at beautiful Bygdøy in Oslo. Bygdøy is just a short bus ride from the city centre and is home to several popular museums (although the Viking ship museum is closed for renovations). There is a supermarket close by and we will have a small kiosk open during the weekend.
+
+<iframe width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" 
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2001.358828311282!2d10.679248713095983!3d59.902424564910994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416c38859d14b5%3A0xb4532ecf0a8e62d4!2sHuk%20Aveny%2045%2C%200287%20Oslo!5e0!3m2!1sno!2sno!4v1751710019569!5m2!1sno!2sno" ></iframe>

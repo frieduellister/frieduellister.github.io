@@ -2,10 +2,9 @@
 layout: article
 lang: "no"
 title: "Kontakt"
+heading: "Kontakt oss"
 permalink: /kontakt
 ---
-
-# Kontakt oss
 
 Den letteste måten å komme i kontakt med oss på er å sende oss en melding på vår facebookside
 [facebook.com/frieduellister](https://www.facebook.com/frieduellister).

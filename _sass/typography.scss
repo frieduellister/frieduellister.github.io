@@ -61,7 +61,9 @@ h6 {
   line-height: 1.5;
 }
 
-p:not(:last-child) {
+p,
+ul,
+ol:not(:last-child) {
   margin-bottom: $spacing-15;
 }
 
@@ -76,6 +78,12 @@ a {
 
   &:hover {
     text-decoration: none;
+  }
+}
+
+p {
+  a {
+    font-weight: bold;
   }
 }
 
