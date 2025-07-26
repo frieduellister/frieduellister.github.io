@@ -24,24 +24,26 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 ### Saturday:
 
 - Open Longsword
-- Open Sidesword and Beginner's Sidesword (will run in paralell)
 - Women's Longsword and Beginner's Longsword (will run in paralell)
+- Open Sidesword and Beginner's Sidesword (will run in paralell)
 - All saturday finals
-- Social
+- Social event
 
 ### Sunday:
 
-- Open Sabre & Womens Sabre (will run in paralell)
 - Open Rapier
+- Open Sabre & Womens Sabre (will run in paralell)
 - All sunday finals
 
 ## Rules
 
 ### Rules at a glance:
 
-- 3 minute matches without pausing for scoring
-- Fully weighted afterblows within one tempo
 - Mandatory 350N rated fencing jacket and breeches
+- 3 minute matches without pausing for scoring
+- Fully weighted afterblow within one tempo
+- Target weighted 2-1 scoring for longsword, sidesword and sabre
+- Target weighted 3-1 scoring for rapier (cuts to torso = 0 points)
 - Weapons provided for longsword and sidesword
 - Bring your own swords for sabre and rapier
 
