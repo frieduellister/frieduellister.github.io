@@ -44,7 +44,7 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 - Fully weighted afterblow within one tempo
 - Target weighted 2-1 scoring for longsword and sidesword
 - Target weighted 3-2 scoring for sabre
-- Target weighted 3-1 scoring for rapier (cuts to torso = 0 points)
+- Target weighted 3-1 scoring for rapier (cuts to torso is 0 points)
 - Weapons provided for longsword and sidesword
 - Bring your own swords for sabre and rapier
 
