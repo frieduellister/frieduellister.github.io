@@ -14,9 +14,11 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 
 The beginner's tournaments are only for people who consider themselved beginners and have participated in at most 2 other tournaments (any weapon, club tournaments excluded).
 
-<p class="center-text">
-    <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/226446324">Register here!</a>
-</p>
+**Registration will open Sunday 9. August 12:00 Norwegian time!**
+
+<!-- <p class="center-text">
+    <a class="button-link" href= "">Register here!</a>
+</p> -->
 
 ## Contact and information
 
