@@ -46,6 +46,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 - Open Rapier (24 spots)
 - Open Sabre and Women's Sabre (48 spots, will run in paralell)
 - All sunday finals
+- All fencing will be finished before 14:00
 
 ## Rules
 
