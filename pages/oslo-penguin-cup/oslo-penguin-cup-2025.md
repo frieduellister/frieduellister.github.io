@@ -20,7 +20,7 @@ The beginner's tournaments are only for people who consider themselved beginners
 
 ## Contact and information
 
-If you have any questions or requests you can send us an email on opc@frieduellister.no. Any important updates will be sendt by email to everyone that have registered for the event.
+If you have any questions or requests you can send us an email on post@frieduellister.no. Any important updates will be sendt by email to everyone that have registered for the event.
 
 ## Program and Schedule
 
@@ -58,7 +58,7 @@ If you have any questions or requests you can send us an email on opc@frieduelli
 
 ### Full ruleset
 
-Full ruleset and detailed equipment requirements can be found here: [Full ruleset (PDF)](/LINK_TO_RULES)
+Full ruleset and detailed equipment requirements can be found here: [Full ruleset (PDF)](https://docs.google.com/document/d/1JQIHl2JtZRom-arHUf2H9_dRv1Lg237wIsR0U_Z1-UE)
 
 ## Accomodation
 
