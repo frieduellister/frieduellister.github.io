@@ -10,9 +10,17 @@ permalink: /opc2025
 
 Registration is done via our ticketing system Hoopa. All tournaments must be paid in advance on a first come first serve basis. If a tournament is full you can send us an email to be put on the waiting list. If you have registered and are unable to attend please let us know as soon as possible and we will do our best to provide a refund untill at least 1 month before the event.
 
+### Beginners
+
+The beginner's tournaments are only for people who consider themselved beginners and have participated in at most 2 other tournaments (any weapon, club tournaments excluded).
+
 <p class="center-text">
     <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/226446324">Register here!</a>
 </p>
+
+## Contact and information
+
+If you have any questions or requests you can send us an email on opc@frieduellister.no. Any important updates will be sendt by email to everyone that have registered for the event.
 
 ## Program and Schedule
 
@@ -21,25 +29,25 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 - Rigging
 - Rules briefing for staff
 
-### Saturday:
+### Saturday from 09:00:
 
-- Open Longsword
-- Women's Longsword and Beginner's Longsword (will run in paralell)
-- Open Sidesword and Beginner's Sidesword (will run in paralell)
+- Open Longsword (76 spots)
+- Women's Longsword and Beginner's Longsword (48 spots, will run in paralell)
+- Open Sidesword and Beginner's Sidesword (48 spots, will run in paralell)
 - All saturday finals
 - Social event
 
-### Sunday:
+### Sunday from 09:00:
 
-- Open Rapier
-- Open Sabre & Womens Sabre (will run in paralell)
+- Open Rapier (24 spots)
+- Open Sabre (48 spots, will run in paralell)
 - All sunday finals
 
 ## Rules
 
 ### Rules at a glance:
 
-- Mandatory 350N rated fencing jacket and breeches
+- Mandatory 350N rated fencing jacket and 350N rated breeches!
 - 3 minute matches without pausing for scoring
 - Fully weighted afterblow within one tempo
 - Target weighted 2-1 scoring for longsword and sidesword
