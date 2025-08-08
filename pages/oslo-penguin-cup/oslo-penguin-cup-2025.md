@@ -42,7 +42,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 ### Sunday from 09:00:
 
 - Open Rapier (24 spots)
-- Open Sabre (48 spots, will run in paralell)
+- Open Sabre and Women's Sabre (48 spots, will run in paralell)
 - All sunday finals
 
 ## Rules
