@@ -26,7 +26,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ## Program and Schedule
 
-### Friday:
+### Friday from 18:00:
 
 - Rigging
 - Rules briefing for staff
@@ -60,7 +60,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Full ruleset
 
-Full ruleset and detailed equipment requirements can be found here: [Full ruleset (PDF)](https://docs.google.com/document/d/1JQIHl2JtZRom-arHUf2H9_dRv1Lg237wIsR0U_Z1-UE)
+Full ruleset and detailed equipment requirements can be found here: [Full ruleset](https://docs.google.com/document/d/1JQIHl2JtZRom-arHUf2H9_dRv1Lg237wIsR0U_Z1-UE)
 
 ## Accomodation
 
