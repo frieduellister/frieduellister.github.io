@@ -10,7 +10,7 @@ Oslo Penguin Cup 2025 will happen at 15-16 november 2025.
 
 ## Registration
 
-**Registration will open Sunday 9. August 12:00 Norwegian time!**
+**Registration will open Sunday 10. August 12:00 Norwegian time!**
 
 Registration is done via our ticketing system Hoopa. All tournaments must be paid in advance on a first come first serve basis. If a tournament is full you can send us an email to be put on the waiting list. If you have registered and are unable to attend please let us know as soon as possible and we will do our best to provide a refund untill at least 1 month before the event.
 
@@ -35,7 +35,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Saturday from 09:00:
 
-- Open Longsword (76 spots)
+- Open Longsword (72 spots)
 - Women's Longsword and Beginner's Longsword (48 spots, will run in paralell)
 - Open Sidesword and Beginner's Sidesword (48 spots, will run in paralell)
 - All saturday finals
