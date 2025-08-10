@@ -8,6 +8,10 @@ permalink: /opc2025
 
 Oslo Penguin Cup 2025 will happen at 15-16 november 2025.
 
+<p class="center-text">
+    <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/oslo-penguin-cup-2025">Register here!</a>
+</p>
+
 ## Registration
 
 Registration is done via our ticketing system Hoopa. All tournaments must be paid in advance on a first come first serve basis. If a tournament is full you can send us an email to be put on the waiting list. If you have registered and are unable to attend please let us know as soon as possible and we will do our best to provide a refund untill at least 1 month before the event.
@@ -15,10 +19,6 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 ### Beginners
 
 The beginner's tournaments are only for people who consider themselved beginners and have participated in at most 2 other tournaments (any weapon, club tournaments excluded).
-
-<p class="center-text">
-    <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/oslo-penguin-cup-2025">Register here!</a>
-</p>
 
 ## Contact and information
 
