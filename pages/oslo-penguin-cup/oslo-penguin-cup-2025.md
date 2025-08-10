@@ -18,9 +18,9 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 
 The beginner's tournaments are only for people who consider themselved beginners and have participated in at most 2 other tournaments (any weapon, club tournaments excluded).
 
-<!-- <p class="center-text">
-    <a class="button-link" href= "">Register here!</a>
-</p> -->
+<p class="center-text">
+    <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/oslo-penguin-cup-2025">Register here!</a>
+</p>
 
 ## Contact and information
 
