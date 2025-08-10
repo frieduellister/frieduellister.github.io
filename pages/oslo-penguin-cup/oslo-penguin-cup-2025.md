@@ -65,7 +65,7 @@ Full ruleset and detailed equipment requirements can be found here: [Full rulese
 
 ## Accomodation
 
-We offer the oppotunity to sleep in the hall for a reasonable price for budget councious fencers, breakfast included. You must bring you own sleeping gear. There is a limited amount of accomodation spots available, be sure to book during registration.
+We offer the oppotunity to sleep in the hall both friday and saturday for a reasonable price for budget councious fencers, breakfast included. You must bring you own sleeping gear. There is a limited amount of accomodation spots available, be sure to book during registration.
 
 ## Venue
 
