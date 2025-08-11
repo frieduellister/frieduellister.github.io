@@ -14,7 +14,7 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 
 ### Beginners
 
-The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments (any weapon, club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
+The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments at the time of Oslo Penguin Cup 2025 (any weapon, club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
 
 <p class="center-text">
     <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/oslo-penguin-cup-2025">Register here!</a>
