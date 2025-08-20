@@ -3,7 +3,7 @@ layout: article
 lang: "no"
 title: "Partnere"
 heading: "Våre partnere"
-permalink: /partnere
+permalink: /info/partnere
 ---
 
 ## Faits D'Armes
