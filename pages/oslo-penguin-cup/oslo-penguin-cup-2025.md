@@ -33,16 +33,16 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Saturday from 09:00:
 
-- 09:00 Open Longsword (72 spots)
-- 13:00 Women's Longsword and Beginner's Longsword (48 spots, will run in paralell)
-- 16:00 Open Sidesword and Beginner's Sidesword (48 spots, will run in paralell)
+- 09:00 Open Longsword
+- 13:00 Women's Longsword and Beginner's Longsword
+- 16:00 Open Sidesword and Beginner's Sidesword
 - 19:00 All saturday finals
 - Social hangout in Oslo
 
 ### Sunday from 09:00:
 
-- 09:00 Open Sabre and Women's Sabre (48 spots, will run in paralell)
-- 12:00 Open Rapier (24 spots)
+- 09:00 Open Sabre and Women's Sabre
+- 12:00 Open Rapier
 - 12:30 All sunday finals
 - 14:00 All fencing will be finished by 14:00
 
