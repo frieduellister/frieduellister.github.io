@@ -35,7 +35,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 - 09:00 Open Longsword
 - 13:00 Women's Longsword and Beginner's Longsword
-- 16:00 Open Sidesword and Beginner's Sidesword
+- 16:00 Sidesword Tier A and Sidesword Tier B
 - 19:00 All saturday finals
 - Social hangout in Oslo
 
