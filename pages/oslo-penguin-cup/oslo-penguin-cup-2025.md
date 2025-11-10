@@ -30,7 +30,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 - 18:00 Rigging
 - 19:00 Table training for table staff
-- 20:00 Rules briefing for staff
+- 20:00 Rules briefing for judges
 
 ### Saturday from 09:00:
 
