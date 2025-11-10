@@ -28,8 +28,9 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Friday from 18:00:
 
-- Rigging
-- Rules briefing for staff
+- 18:00 Rigging
+- 19:00 Table training for table staff
+- 20:00 Rules briefing for staff
 
 ### Saturday from 09:00:
 
