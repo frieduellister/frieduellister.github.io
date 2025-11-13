@@ -34,8 +34,8 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Saturday from 09:00:
 
-**All fencers must be present 30 minutes before the start of each tournament**
 
+**All fencers must be present 30 minutes before the start of each tournament**
 - 09:00 Open Longsword
 - 13:00 Women's Longsword and Beginner's Longsword
 - 16:00 Sidesword Tier A and Sidesword Tier B
@@ -44,6 +44,8 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Sunday from 09:00:
 
+
+**All fencers must be present 30 minutes before the start of each tournament**
 - 09:00 Open Sabre and Women's Sabre
 - 12:00 Open Rapier
 - 12:30 All sunday finals
