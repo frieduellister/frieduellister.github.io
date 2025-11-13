@@ -36,6 +36,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 
 **All fencers must be present 30 minutes before the start of each tournament**
+- 08:30 Open Longsword registration
 - 09:00 Open Longsword
 - 13:00 Women's Longsword and Beginner's Longsword
 - 16:00 Sidesword Tier A and Sidesword Tier B
