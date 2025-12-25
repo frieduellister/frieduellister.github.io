@@ -52,18 +52,21 @@ youtube_url: jekyll
 #   - vendor/ruby/
 
 collections:
-  pages:
+  pages_no:
     output: true
     permalink: /:path/
+  pages_en:
+    output: true
+    permalink: /en/:path/
 
 defaults:
   - scope:
-      path: "_pages/no"
-      type: "pages"
+      path: ""
+      type: "pages_no"
     values:
       language: "no"
   - scope:
-      path: "_pages/en"
-      type: "pages"
+      path: ""
+      type: "pages_en"
     values:
       language: "en"
