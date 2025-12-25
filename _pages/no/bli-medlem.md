@@ -1,9 +1,7 @@
 ---
 layout: article
-lang: "no"
 title: "Bli medlem"
 heading: "Bli medlem hos oss"
-permalink: /bli-medlem
 ---
 
 ## Prøvetreninger

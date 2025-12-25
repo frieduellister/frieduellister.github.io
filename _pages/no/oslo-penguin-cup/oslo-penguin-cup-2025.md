@@ -1,9 +1,8 @@
 ---
 layout: article
-lang: "en"
 title: "Oslo Penguin Cup 2025"
 heading: "Oslo Penguin Cup 2025"
-permalink: /opc2025
+permalink: "opc2025"
 ---
 
 Oslo Penguin Cup 2025 will happen at 15-16 november 2025.

@@ -1,9 +1,7 @@
 ---
 layout: article
-lang: "no"
 title: "Kontakt"
 heading: "Kontakt oss"
-permalink: /info/kontakt
 ---
 
 Den letteste måten å komme i kontakt med oss på er å sende oss en melding på vår facebookside

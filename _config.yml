@@ -50,3 +50,20 @@ youtube_url: jekyll
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: "_pages/no"
+      type: "pages"
+    values:
+      language: "no"
+  - scope:
+      path: "_pages/en"
+      type: "pages"
+    values:
+      language: "en"
