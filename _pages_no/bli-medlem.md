@@ -18,6 +18,6 @@ For å bli medlem i klubben må man registrere seg i medlemssystemet vårt Spond
 
 ## Alder
 
-Vi har ingen egne grupper for barn og vi tar i utgangspunktet ikke inn medlemmer under 16 år. Vi kan være litt fleksible på dette i enkelte tilfeller med foresattes godkjennelse.
+Vi har ingen egne grupper for barn og vi tar i utgangspunktet ikke inn medlemmer under 16 år.
 
 <img alt="Bilde fra renessansen av pengevekslere" src="/assets/images/pengeveksler.webp" class="wide-image">

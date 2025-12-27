@@ -18,6 +18,6 @@ To become a member of the club, you must register in our membership system Spond
 
 ## Age
 
-We have no separate groups for children and we generally do not accept members under 16 years of age. We can be somewhat flexible on this in some cases with parental consent.
+We have no separate groups for children and we generally do not accept members under 16 years of age.
 
 <img alt="Renaissance image of money changers" src="/assets/images/pengeveksler.webp" class="wide-image">
