@@ -100,6 +100,8 @@ bundle exec jekyll serve
 ## Key Files
 
 - `_config.yml` - Jekyll configuration
+- `_sass/site.scss` - Main stylesheet
+- `site.scss` - Main entrypoint for styling
 - `Gemfile` - Ruby dependencies
 - `CNAME` - Custom domain configuration
 - `robots.txt` - Search engine directives
