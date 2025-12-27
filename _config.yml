@@ -53,14 +53,23 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+collections:
+  pages-no:
+    output: true
+    permalink: /:path/
+  pages-en:
+    output: true
+    permalink: /en/:path/
+
 defaults:
   - scope:
-      path: "pages-no"
+      path: ""
+      type: "pages-no"
     values:
       language: "no"
-      permalink: /:path/
   - scope:
-      path: "pages-en"
+      path: ""
+      type: "pages-en"
     values:
       language: "en"
-      permalink: /en/:path/
+
