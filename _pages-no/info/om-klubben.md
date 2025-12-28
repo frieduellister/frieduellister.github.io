@@ -4,7 +4,7 @@ title: "Om klubben"
 heading: "Om Fekteklubben Frie Duellister"
 ---
 
-Fekteklubben Frie Duellister ble startet i Bergen i 2002 med formål å drive middelalderkamp og fekting med fokus på dueller fremfor gruppestrid som tradisjonelt har vært fokus i norske hærkamp/blankvåpen-miljøer. Klubbens fokus var på denne tiden en kilde kjent som I.33 fra middelalderen som beskriver fekting med sverd og buckler. Etter hvert som  medlemmer flyttet på seg ble klubben ekspandert til Oslo og i Tromsø. Flere tidlige HEMA-klubber i Europa ble stiftet tidlig på 2000-tallet og de siste 20+ årene har miljøet og aktiviteten hatt stor vekst.
+Fekteklubben Frie Duellister (FKFD) ble startet i Bergen i 2002 med formål å drive middelalderkamp og fekting med fokus på dueller fremfor gruppestrid som tradisjonelt har vært fokus i norske hærkamp/blankvåpen-miljøer. Klubbens fokus var på denne tiden en kilde kjent som I.33 fra middelalderen som beskriver fekting med sverd og buckler. Etter hvert som  medlemmer flyttet på seg ble klubben ekspandert til Oslo og i Tromsø. Flere tidlige HEMA-klubber i Europa ble stiftet tidlig på 2000-tallet og de siste 20+ årene har miljøet og aktiviteten hatt stor vekst.
 
 Fekteklubben Frie Duellister er Norges desidert største klubb innen HEMA og historisk fekting. I tillegg til flere treninger i uken er vi aktive på middelalderfestivaler, har sosiale arrangementer, deltar på turneringer og treningshelger, holder nybegynnerkurs osv.
 
@@ -26,7 +26,7 @@ Våre medlemmer holder treninger, introduserer nye til HEMA, organiserer turer o
 
 Håvard Lund Eidheim, Oslo (Styrets leder)  
 Erik Varberg, Tromsø (Nestleder)  
-Tomm Skotner, Oslo (Økonomiansvarlig)  
+Tomm Alexander Skotner, Oslo (Økonomiansvarlig)  
 Reinier Van Noort, Oslo (Styremedlem)  
 Johan Frederik Beichmann, Oslo (Styremedlem)  
 Samantha Stenstvedt-Gilberg Von Werden, Oslo (Styremedlem)  
