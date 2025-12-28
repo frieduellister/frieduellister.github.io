@@ -24,11 +24,11 @@ Our members hold training sessions, introduce newcomers to HEMA, organize trips 
 
 ## Club board elected 2025
 
-Håvard Lund Eidheim, Oslo (Board chair)
-Erik Varberg, Tromsø (Deputy chair)
-Tomm Alexander Skotner, Oslo (Treasurer)
-Reinier van Noort, Oslo (Board member)
-Johan Frederik Beichmann, Oslo (Board member)
-Samantha Stenstvedt-Gilberg Von Werden, Oslo (Board member)
-Martin Milde, Bergen (Board member)
-Yngve Mjålseth, Oslo (Deputy member)
+Håvard Lund Eidheim, Oslo (Board chair)  
+Erik Varberg, Tromsø (Deputy chair)  
+Tomm Alexander Skotner, Oslo (Treasurer)  
+Reinier van Noort, Oslo (Board member)  
+Johan Frederik Beichmann, Oslo (Board member)  
+Samantha Stenstvedt-Gilberg Von Werden, Oslo (Board member)  
+Martin Milde, Bergen (Board member)  
+Yngve Mjålseth, Oslo (Deputy member)  
