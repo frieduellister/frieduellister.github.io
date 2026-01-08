@@ -1,0 +1,18 @@
+.flag-icon {
+  display: inline-block;
+  height: 1em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: -0.15em;
+
+  &--no {
+    background-image: url("/assets/icons/flag_norway.svg");
+    width: 1.375em;
+  }
+
+  &--en {
+    background-image: url("/assets/icons/flag_uk.svg");
+    width: 2em;
+  }
+}

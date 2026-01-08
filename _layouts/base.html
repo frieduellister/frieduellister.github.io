@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+<html lang="{{ page.language }}">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,9 +15,9 @@
     <link rel="preload" href="/assets/fonts/QuattrocentoSans-Bold.woff2" as="font" type="font/woff2" crossorigin />
   </head>
   <body class="body">
-    {% include header.html %}
+    {% include header_{{ page.language }}.html %}
     <main class="main-content">{{ content }}</main>
-    {% include footer.html %}
+    {% include footer_{{ page.language }}.html %}
     <script src="/assets/js/navigation.js"></script>
   </body>
 </html>
