@@ -76,3 +76,8 @@ defaults:
       type: "pages-en"
     values:
       language: "en"
+  - scope:
+      path: ""
+      type: "pages-common"
+    values:
+      language: "en"
