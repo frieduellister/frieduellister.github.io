@@ -1,12 +1,18 @@
 ---
 layout: article
-title: "Oslo Penguin Cup 2025"
-heading: "Oslo Penguin Cup 2025"
-permalink: "opc2025/"
+title: "Oslo Penguin Cup 2026"
+heading: "Oslo Penguin Cup 2026"
+permalink: "opc2026/"
 language: "en"
 ---
 
-Oslo Penguin Cup 2025 will happen at 15-16 november 2025.
+Oslo Penguin Cup returns on 10–11 October 2026! Once again we invite all historical fencers to Oslo for the 7th edition of the Oslo Penguin Cup for a weekend full of fencing! Like every Penguin Cup, the event will feature many weapons, dedicated women's tournaments, top international competitors, while also being welcoming for newer fencers.
+
+Registration, weapons, divisions and preliminary schedule will be available on Sunday 7 June.
+
+For now you can mark this weekend in your calendars and make your plans! As always, sleeping in the hall is an option for anyone wanting to save a bit of money.
+
+See you in Oslo!
 
 ## Registration
 
@@ -14,11 +20,11 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 
 ### Beginners
 
-The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments at the time of Oslo Penguin Cup 2025 (any weapon, club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
+The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments at the time of Oslo Penguin Cup 2026 (any weapon, internal club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
 
-<p class="center-text">
-    <a class="button-link" href= "https://oslopenguincup.hoopla.no/event/oslo-penguin-cup-2025">Register here!</a>
-</p>
+### Sidesword Tiers
+
+The sidesword tournament is tiered, meaning that the pool of fencers will be split in two different tiers before the tournament. The tiers will be based on ratings and experience and balanced to create the best experience for fencers in both tiers. You can note your preference when registering and you can always choose to be put in Tier A if you prefer to face the toughest competition.
 
 ## Contact and information
 
@@ -41,7 +47,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 - 13:00 Women's Longsword and Beginner's Longsword
 - 16:00 Sidesword Tier A and Sidesword Tier B
 - 19:00 All saturday finals
-- Social hangout at The Dubliner Oslo
+- Social hangout
 
 ### Sunday from 09:00:
 
@@ -67,7 +73,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 ### Full ruleset
 
-Full ruleset and detailed equipment requirements can be found here: [Full ruleset](https://docs.google.com/document/d/1JQIHl2JtZRom-arHUf2H9_dRv1Lg237wIsR0U_Z1-UE)
+Full ruleset and detailed equipment requirements will be available soon. The 2025 rules are available here: [2025 ruleset](https://docs.google.com/document/d/1JQIHl2JtZRom-arHUf2H9_dRv1Lg237wIsR0U_Z1-UE) there will be no major changes.
 
 ## Accommodation
 
