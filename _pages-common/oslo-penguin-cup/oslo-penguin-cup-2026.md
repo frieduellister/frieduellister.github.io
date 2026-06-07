@@ -45,7 +45,7 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 
 **All fencers must be present 30 minutes before the start of each tournament**
-- 08:30 Open Longsword (72 spots)
+- 09:00 Open Longsword (72 spots)
 - 13:00 Women's Longsword and Beginner's Longsword (48 spots combined)
 - 16:00 Sidesword Tier A and Sidesword Tier B (48 spots combined)
 - 19:00 All saturday finals
