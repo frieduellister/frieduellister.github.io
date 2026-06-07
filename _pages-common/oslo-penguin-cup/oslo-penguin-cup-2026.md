@@ -18,13 +18,13 @@ See you in Oslo!
 
 Registration is done via our ticketing system Hoopa. All tournaments must be paid in advance on a first come first serve basis. If a tournament is full you can send us an email to be put on the waiting list. If you have registered and are unable to attend please let us know as soon as possible and we will do our best to provide a refund until at least 1 month before the event.
 
-### Beginners
-
-The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments at the time of Oslo Penguin Cup 2026 (any weapon, internal club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
-
 <p class="center-text">
     <a class="button-link" href="https://oslopenguincup.hoopla.no/event/1423335153">Register here!</a>
 </p>
+
+### Beginners
+
+The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments at the time of Oslo Penguin Cup 2026 (any weapon, internal club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
 
 ### Sidesword Tiers
 
