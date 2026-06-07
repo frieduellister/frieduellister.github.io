@@ -22,6 +22,10 @@ Registration is done via our ticketing system Hoopa. All tournaments must be pai
 
 The beginner's tournaments are only for people who consider themselves beginners and have participated in at most 2 other tournaments at the time of Oslo Penguin Cup 2026 (any weapon, internal club tournaments excluded). We encourage beginners to also sign up for open/women's tournaments.
 
+<p class="center-text">
+    <a class="button-link" href="https://oslopenguincup.hoopla.no/event/1423335153">Register here!</a>
+</p>
+
 ### Sidesword Tiers
 
 The sidesword tournament is tiered, meaning that the pool of fencers will be split in two different tiers before the tournament. The tiers will be based on ratings and experience and balanced to create the best experience for fencers in both tiers. You can note your preference when registering and you can always choose to be put in Tier A if you prefer to face the toughest competition.
@@ -33,19 +37,17 @@ If you have any questions or requests you can send us an email on post@frieduell
 ## Program and Schedule
 
 ### Friday from 18:00:
-
 - 18:00 Rigging
 - 19:00 Table training for table staff
 - 20:00 Rules briefing for judges
 
-### Saturday from 09:00:
+### Saturday from 08:30:
 
 
 **All fencers must be present 30 minutes before the start of each tournament**
-- 08:30 Open Longsword registration
-- 09:00 Open Longsword
-- 13:00 Women's Longsword and Beginner's Longsword
-- 16:00 Sidesword Tier A and Sidesword Tier B
+- 08:30 Open Longsword (72 spots)
+- 13:00 Women's Longsword and Beginner's Longsword (48 spots combined)
+- 16:00 Sidesword Tier A and Sidesword Tier B (48 spots combined)
 - 19:00 All saturday finals
 - Social hangout
 
@@ -53,8 +55,8 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 
 **All fencers must be present 30 minutes before the start of each tournament**
-- 09:00 Open Sabre and Women's Sabre
-- 12:00 Open Rapier
+- 09:00 Open Sabre and Women's Sabre (48 spots combined)
+- 12:00 Open Rapier (24 spots)
 - 12:30 All sunday finals
 - 14:00 All fencing will be finished by 14:00
 
