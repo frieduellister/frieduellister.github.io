@@ -4,6 +4,17 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{% if page.title and page.title.size > 0 %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    {% seo title=false %}
+    {%- assign translation_url = page.translation_url | strip %}
+    {%- if translation_url != "" %}
+    {%- if page.language == "no" %}
+    <link rel="alternate" hreflang="no" href="{{ page.url | absolute_url }}" />
+    <link rel="alternate" hreflang="en" href="{{ translation_url | absolute_url }}" />
+    {%- else %}
+    <link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}" />
+    <link rel="alternate" hreflang="no" href="{{ translation_url | absolute_url }}" />
+    {%- endif %}
+    {%- endif %}
     <meta
       http-equiv="Content-Security-Policy"
       content="default-src 'self'; img-src 'self' https:; script-src 'self'; frame-src https:;" />

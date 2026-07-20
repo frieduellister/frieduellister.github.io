@@ -23,14 +23,13 @@ markdown: kramdown
 title: Fekteklubben Frie Duellister
 email: post@frieduellister.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Fekteklubben Frie Duellister er Norges største og eldste klubb for historisk
+  fekting og HEMA, med treninger i Oslo, Bergen og Tromsø.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.frieduellister.no/" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_url:
-instragram_url:
-youtube_url:
+url: "https://www.frieduellister.no" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -71,13 +70,16 @@ defaults:
       type: "pages-no"
     values:
       language: "no"
+      lang: "no"
   - scope:
       path: ""
       type: "pages-en"
     values:
       language: "en"
+      lang: "en"
   - scope:
       path: ""
       type: "pages-common"
     values:
       language: "en"
+      lang: "en"
