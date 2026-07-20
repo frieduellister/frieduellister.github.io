@@ -26,10 +26,27 @@ function addSideMenuExpands() {
     let expandToggle = expand.querySelector(".nav-expand-toggle");
 
     expandToggle.addEventListener("click", () => {
-      expand.classList.toggle("open");
+      let open = expand.classList.toggle("open");
+      expandToggle.setAttribute("aria-expanded", open);
     });
+  });
+}
+
+function markCurrentPage() {
+  let links = document.querySelectorAll(".navigation a");
+
+  links.forEach((link) => {
+    if (link.pathname === window.location.pathname) {
+      link.setAttribute("aria-current", "page");
+
+      let expand = link.closest(".nav-expand");
+      if (expand) {
+        expand.querySelector(".nav-expand-toggle").classList.add("nav-current-parent");
+      }
+    }
   });
 }
 
 addMobileSideMenu();
 addSideMenuExpands();
+markCurrentPage();

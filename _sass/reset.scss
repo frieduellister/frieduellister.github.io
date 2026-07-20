@@ -64,11 +64,6 @@ p {
   overflow-wrap: break-word;
 }
 
-textarea,
-input {
-  outline: none;
-}
-
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;

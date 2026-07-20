@@ -19,7 +19,12 @@
   .nav-list {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: flex-start;
+  }
+
+  a[aria-current="page"],
+  .nav-expand-toggle.nav-current-parent {
+    font-weight: 700;
   }
 
   .nav-item {
