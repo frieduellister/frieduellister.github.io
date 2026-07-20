@@ -2,6 +2,7 @@
 layout: article
 title: "Join us"
 heading: "Join us"
+translation_url: /bli-medlem/
 ---
 
 ## Trial trainings

@@ -2,6 +2,7 @@
 layout: article
 title: "Kontakt"
 heading: "Kontakt oss"
+translation_url: /en/info/contact/
 ---
 
 Den letteste måten å komme i kontakt med oss på er å sende oss en melding på vår facebookside

@@ -2,6 +2,7 @@
 layout: article
 title: "Contact"
 heading: "Contact us"
+translation_url: /info/kontakt/
 ---
 
 The easiest way to get in touch with us is to send us a message on our Facebook page

@@ -62,7 +62,8 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a href="/en/">In English <span class="flag-icon flag-icon--en"></span></a>
+            {%- assign translation_url = page.translation_url | strip %}
+            <a href="{{ translation_url | default: '/en/' }}">In English <span class="flag-icon flag-icon--en"></span></a>
           </li>
         </ul>
       </nav>

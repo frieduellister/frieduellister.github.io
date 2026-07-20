@@ -2,6 +2,7 @@
 layout: article
 title: "Intro session 2025"
 heading: "Free intro session August 2025"
+translation_url: /omf-2025/
 ---
 
 # Free intro session August 2025

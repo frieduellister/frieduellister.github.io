@@ -2,6 +2,7 @@
 layout: article
 title: "Partnere"
 heading: "Våre partnere"
+translation_url: /en/info/partners/
 ---
 
 ## Faits D'Armes

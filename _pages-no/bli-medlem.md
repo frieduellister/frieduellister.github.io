@@ -2,6 +2,7 @@
 layout: article
 title: "Bli medlem"
 heading: "Bli medlem hos oss"
+translation_url: /en/become-a-member/
 ---
 
 ## Prøvetreninger

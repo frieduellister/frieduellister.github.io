@@ -2,6 +2,7 @@
 layout: article
 title: "About the club"
 heading: "About Fekteklubben Frie Duellister"
+translation_url: /info/om-klubben/
 ---
 
 Fekteklubben Frie Duellister (FKFD) was started in Bergen in 2002 with the purpose of practicing medieval combat and fencing with a focus on duels rather than group fighting, which had traditionally been the focus in the Norwegian reenactment community. At this time, the club's focus was on a source known as I.33 from the Middle Ages, which describes fencing with sword and buckler. As members moved around, the club expanded to Oslo and Tromsø. Several early HEMA clubs in Europe were established in the early 2000s, and over the past 20+ years the community and activity have seen significant growth.

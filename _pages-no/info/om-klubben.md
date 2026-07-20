@@ -2,6 +2,7 @@
 layout: article
 title: "Om klubben"
 heading: "Om Fekteklubben Frie Duellister"
+translation_url: /en/info/about/
 ---
 
 Fekteklubben Frie Duellister (FKFD) ble startet i Bergen i 2002 med formål å drive middelalderkamp og fekting med fokus på dueller fremfor gruppestrid som tradisjonelt har vært fokus i norske hærkamp/blankvåpen-miljøer. Klubbens fokus var på denne tiden en kilde kjent som I.33 fra middelalderen som beskriver fekting med sverd og buckler. Etter hvert som  medlemmer flyttet på seg ble klubben ekspandert til Oslo og i Tromsø. Flere tidlige HEMA-klubber i Europa ble stiftet tidlig på 2000-tallet og de siste 20+ årene har miljøet og aktiviteten hatt stor vekst.
