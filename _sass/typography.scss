@@ -58,7 +58,12 @@ h5,
 h6 {
   font-style: normal;
   font-weight: 400;
-  line-height: 1.5;
+  line-height: 1.2;
+}
+
+h2,
+h3 {
+  margin-bottom: $spacing-1;
 }
 
 p,

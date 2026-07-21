@@ -21,6 +21,14 @@
     object-fit: cover;
   }
 
+  // In a heading-only row the grid row-gap provides the spacing below
+  .grid-100 {
+    h2,
+    h3 {
+      margin-bottom: 0;
+    }
+  }
+
   @media screen and (min-width: $breakpoint-row-indent) {
     .grid-100 {
       width: 100%;
