@@ -1,26 +1,24 @@
 .footer {
   background-color: #303030;
+  color: white;
+  text-align: center;
+  padding-top: $spacing-4;
+  padding-bottom: $spacing-2;
 
-  .footer-content {
-    height: 340px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
+  a {
+    color: white;
+  }
 
-    .footer-section {
-      color: white;
-      p {
-        text-align: center;
-      }
+  .footer-title {
+    font-size: $font-size-large;
+    font-weight: bold;
+    margin-bottom: $spacing-1;
+  }
 
-      a {
-        color: white;
-      }
-    }
-
-    @media screen and (max-width: $breakpoint-row-medium) {
-      flex-wrap: wrap;
-    }
+  .footer-credit {
+    margin-top: $spacing-4;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    color: #b3b3b3;
   }
 }
