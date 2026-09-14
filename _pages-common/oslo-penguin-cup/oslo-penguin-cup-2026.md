@@ -73,9 +73,13 @@ If you have any questions or requests you can send us an email on post@frieduell
 - Weapons provided for longsword and sidesword
 - Bring your own swords for sabre and rapier
 
-### Full ruleset
+### Equipment requirements
 
-Full ruleset and detailed equipment requirements will be available soon. The 2025 rules are available here: [2025 ruleset](https://docs.google.com/document/d/1JQIHl2JtZRom-arHUf2H9_dRv1Lg237wIsR0U_Z1-UE) there will be no major changes.
+Detailed equipment requirements can be found here: [Equipment requirements](/opc2026/equipment/)
+
+### Tournament rules and scoring
+
+Full tournament and scoring rules can be found here: [Full ruleset](/opc2026/rules/)
 
 ## Accommodation
 
