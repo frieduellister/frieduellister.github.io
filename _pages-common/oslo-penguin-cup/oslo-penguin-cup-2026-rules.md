@@ -141,6 +141,8 @@ Parrying thrusts with the off-hand is allowed. Parrying strikes with the off-han
 
 All unarmed strikes are illegal and will result in a warning if performed. Using hands or feet to push an opponent is allowed.
 
+All scoring actions with the sword/other weapons have priority over other scoring actions such as grappling, disarm, ringout. If one fencer lands a strike with their sword and is taken down afterwards only the sword action will count.
+
 **Longsword and sidesword**
 
 - A cut to the head or neck area is worth 2 points.
@@ -175,7 +177,6 @@ All unarmed strikes are illegal and will result in a warning if performed. Using
 - Pushing the blade or parrying thrusts with the off-hand is allowed.
 - Grabbing the blade is not allowed, except when grabbing the strongest ¼ of the blade.
 - If both fencers take control of the other fencer's weapon/weapon arm, break will be called.
-- All scoring actions with the sword/other weapons have priority over other scoring actions such as grappling, disarm, ringout. If one fencer lands a strike with their sword and is taken doen afterwards only the sword action will count.
 
 ### Double hits and afterblows
 
