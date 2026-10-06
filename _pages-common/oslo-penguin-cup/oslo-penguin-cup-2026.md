@@ -45,14 +45,10 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 
 **All fencers must be present 30 minutes before the start of each tournament**
-- 09:00 Open Longsword pools (72 spots)
-- 11:00 Open Longsword eliminations
-- 12:00 Women's Longsword pools (48 spots combined with Beginner's Longsword)
-- 13:00 Women's Longsword eliminations
-- 13:30 Beginner's Longsword pools
-- 14:30 Beginner's Longsword eliminations
-- 15:30 Sidesword Tier A and Sidesword Tier B pools (48 spots combined)
-- 17:30 Sidesword Tier A and Sidesword Tier B eliminations
+- 09:00 Open Longsword (72 spots)
+- 12:00 Women's Longsword (48 spots combined with Beginner's Longsword)
+- 13:30 Beginner's Longsword
+- 15:30 Sidesword Tier A and Sidesword Tier B (48 spots combined)
 - 18:30 All saturday finals
 - 21:00 Dinner in town
 
@@ -60,10 +56,8 @@ If you have any questions or requests you can send us an email on post@frieduell
 
 
 **All fencers must be present 30 minutes before the start of each tournament**
-- 09:00 Open Sabre and Women's Sabre pools (48 spots combined)
-- 11:00 Open Sabre and Women's Sabre eliminations
-- 11:30 Open Rapier pools (24 spots)
-- 12:30 Open Rapier eliminations
+- 09:00 Open Sabre and Women's Sabre (48 spots combined)
+- 11:30 Open Rapier (24 spots)
 - 13:30 All sunday finals
 - 14:00 All fencing will be finished by 14:00
 
