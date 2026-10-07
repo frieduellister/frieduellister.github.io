@@ -58,7 +58,6 @@ If you have any questions or requests you can send us an email on post@frieduell
 **All fencers must be present 30 minutes before the start of each tournament**
 - 09:00 Open Sabre and Women's Sabre (48 spots combined)
 - 11:30 Open Rapier (24 spots)
-- 13:30 All sunday finals
 - 14:00 All fencing will be finished by 14:00
 
 ## Rules
