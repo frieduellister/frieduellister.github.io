@@ -1,38 +1,44 @@
 # Hjemmeside for Fekteklubben Frie Duellister
 
-Sider ligger under `/pages`
+Siden er bygget med Jekyll og publiseres med GitHub Pages.
 
-For å opprette ny side, lag en ny fil under `/pages` som er enten markdown (.md) for enkle sider eller html (.html) for
-mer kompliserte sider. Bruk eksisterende sider som et eksempel.
+## Sider
 
-Enkle sider lages med markdown som er en enkel måte å skrive innhold på, se her for en intro til markdown:
-https://www.markdownguide.org/basic-syntax/
+Sidene ligger i tre mapper:
 
-Under `/_layout` og `/_includes` ligger sidens template og struktur, for å gjøre endringer i meny må man redigere
-`/_includes/header.html`
+- `_pages-no/` - norske sider, f.eks. `_pages-no/info/kontakt.md` → `/info/kontakt/`
+- `_pages-en/` - engelske sider, f.eks. `_pages-en/info/contact.md` → `/en/info/contact/`
+- `_pages-common/` - sider som bare finnes på ett språk, f.eks. Oslo Penguin Cup
 
-## Images
+For å opprette en ny side, lag en ny fil i riktig mappe. Bruk markdown (.md) for enkle sider og html (.html) for mer
+kompliserte sider. Bruk eksisterende sider som eksempel, og sett `translation_url` til adressen til samme side på det
+andre språket.
 
-Images should be cropped, resized, and converted to .webp. Use 4/3 aspect ratio for gallery and other images, and 16/9
-for instructors. If you are adding a gallery or full size images, use flickr and point image elements there. Only upload
-images to github if they are part of the site content and always use resized images.
+Markdown er en enkel måte å skrive innhold på, se her for en intro: https://www.markdownguide.org/basic-syntax/
 
-https://imageresizer.com
+Sidens maler ligger i `_layouts/` og `_includes/`. For å endre menyen må man redigere både
+`_includes/header_no.html` og `_includes/header_en.html`.
 
-https://bulkimagecrop.com/
+## Bilder
 
-## Local development
+Bilder skal beskjæres, skaleres ned og konverteres til .webp. Bruk 4:3 for galleri og andre bilder, og 16:9 for
+instruktører. Skal du legge inn et galleri eller bilder i full størrelse, bruk Flickr og pek bilde-elementene dit. Last
+bare opp bilder til GitHub hvis de er en del av sidens innhold, og bruk alltid nedskalerte bilder.
 
-First you need to install ruby and jekyll, see: https://jekyllrb.com/docs/
+- https://imageresizer.com
+- https://bulkimagecrop.com
 
-Install dependencies:
+## Lokal utvikling
 
-`bundle install`
+Installer Ruby og Jekyll først, se https://jekyllrb.com/docs/
 
-Update github pages gem:
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-`bundle update github-pages`
+Oppdater github-pages-gemen ved behov:
 
-Start dev server:
-
-`bundle exec jekyll serve`
+```bash
+bundle update github-pages
+```
