@@ -1,107 +1,44 @@
 # Frie Duellister Website
 
-A bilingual Jekyll-based static site for Fekteklubben Frie Duellister (Norwegian fencing club).
-
-## Technology Stack
-
-- **Static Site Generator**: Jekyll (GitHub Pages)
-- **Templating**: Liquid
-- **Styling**: Sass (in `_sass/`)
-- **Markdown**: Kramdown
+A bilingual Jekyll site (GitHub Pages) for Fekteklubben Frie Duellister, a Norwegian HEMA club. Content is Markdown/HTML
+with Liquid templates and Sass styles.
 
 ## Project Structure
 
-### Content Pages
+Pages are Jekyll collections, configured in `_config.yml`:
 
-Pages are organized by language using Jekyll collections:
+- `_pages-no/` → Norwegian, served at `/{path}/` (e.g. `_pages-no/info/kontakt.md` → `/info/kontakt/`)
+- `_pages-en/` → English, served at `/en/{path}/` (e.g. `_pages-en/info/contact.md` → `/en/info/contact/`)
+- `_pages-common/` → single-language pages served at `/{path}/` (e.g. Oslo Penguin Cup)
 
-- **Norwegian pages**: `_pages_no/` → URLs: `/{path}/`
-- **English pages**: `_pages_en/` → URLs: `/en/{path}/`
+Other directories:
 
-Configuration in `_config.yml`:
-```yaml
-collections:
-  pages_no:
-    output: true
-    permalink: /:path/
-  pages_en:
-    output: true
-    permalink: /en/:path/
-```
+- `_layouts/` - `base.html` wraps everything; use `article.html` for text pages, `page.html` for custom HTML pages
+- `_includes/` - headers and footers, one per language (`header_no.html`, `header_en.html`, ...)
+- `_sass/` - styles, built via `assets/css/main.scss` → `_sass/site.scss`
+- `assets/images/` - images (see below)
 
-### Page Examples
+## Adding a Page
 
-- Norwegian: `_pages_no/bli-medlem.md` → `https://site.com/bli-medlem/`
-- English: `_pages_en/join-us.md` → `https://site.com/en/join-us/`
-- Info pages: `_pages_no/info/kontakt.md` → `https://site.com/info/kontakt/`
-
-### Layouts
-
-Located in `_layouts/`:
-
-- `base.html` - Main layout template
-- `article.html` - Article/content pages for text content
-- `page.html` - Flexible template for html pages
-
-### Includes (Components)
-
-Located in `_includes/`:
-
-- `header_no.html` - Norwegian navigation header
-- `header_en.html` - English navigation header
-- `footer_no.html` - Norwegian footer
-- `footer_en.html` - English footer
-
-### Navigation Structure
-
-Both headers follow the same structure:
-- Membership link (Bli medlem / Join us)
-- City sections (Oslo, Tromsø, Bergen) with:
-  - Training schedules
-  - Instructors
-- Information section:
-  - Contact
-  - About the club
-  - Partners
-
-### Assets
-
-- **Styles**: `_sass/` (Sass files)
-- **Images**: `assets/images/` (use .webp format, 4:3 for gallery, 16:9 for instructors)
-- **Other assets**: `assets/`
-
-## Local Development
-
-```bash
-# Install dependencies
-bundle install
-
-# Update GitHub Pages gem
-bundle update github-pages
-
-# Start development server
-bundle exec jekyll serve
-```
-
-## Adding New Pages
-
-1. Create a new `.md` file in `_pages_no/` or `_pages_en/`
+1. Create a `.md` (simple content) or `.html` (custom layout) file in the right collection
 2. Add front matter:
    ```yaml
    ---
    layout: article
    title: "Page Title"
    heading: "Page Heading"
+   translation_url: /en/page-title/   # URL of the page in the other language, used by the language switcher
    ---
    ```
-3. Write content in Markdown
-4. Update the appropriate header file (`header_no.html` or `header_en.html`) if navigation link is needed
+3. If the page should be in the menu, add it to both `_includes/header_no.html` and `_includes/header_en.html`
 
-## Key Files
+## Images
 
-- `_config.yml` - Jekyll configuration
-- `_sass/site.scss` - Main stylesheet
-- `site.scss` - Main entrypoint for styling
-- `Gemfile` - Ruby dependencies
-- `CNAME` - Custom domain configuration
-- `robots.txt` - Search engine directives
+Crop, resize and convert to `.webp`. Use 4:3 for gallery and general images, 16:9 for instructors.
+
+## Local Development
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
