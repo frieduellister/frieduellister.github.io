@@ -41,7 +41,7 @@ plugins:
 #
 exclude:
   - readme.md
-  - claude.md
+  - AGENTS.md
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
